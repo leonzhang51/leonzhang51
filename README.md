@@ -1,4 +1,4 @@
-UX designer-developer (hybrid) focused on both customer and business needs. Champions client ideas and produces solutions for development and product design that meet revenue goals.
+Full stack developer focused on both customer and business needs. Champions client ideas and produces solutions for development and product design that meet revenue goals.
 
 “How it Works” Focus: Adept at conceptualizing design ideas and bringing them to life with a focus on analysis, business requirements, and optimizing user experience.
 
