@@ -1,9 +1,2 @@
-Full stack engineer focused on both customer and business needs. Champions client ideas and produces solutions for development and product design that meet revenue goals.
-
-“How it Works” Focus: Adept at conceptualizing design ideas and bringing them to life with a focus on analysis, business requirements, and optimizing user experience.
-
-Innovative Thinker: Sees the big picture and provides creative, unique solutions for customers, with the goal of engaging users and earning their repeat visits.
-
-Business Results: Successful history of creating apps, landing pages, and new components that significantly increase traffic and revenue.
-
+Full-Stack Developer with over 7 years of experience in designing, developing, and deploying web applications. Highly skilled in both frontend and backend technologies, including React, Next.js, Node.js, Python FastAPI, and MongoDB. Adept at building scalable, high-performance solutions, optimizing user experiences, and leveraging the latest technologies, such as AI, to drive business results. Proven success in Agile environments, collaborating cross-functionally to deliver impactful projects.
 
